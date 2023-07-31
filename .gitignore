@@ -30,5 +30,3 @@ override.tf.json
 
 .terragrunt-cache/
 .terragrunt-cache
-.infracost/
-.infracost
